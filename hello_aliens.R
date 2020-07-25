@@ -1,0 +1,2 @@
+cat("To extraterrestrials,\n\nYou received a message from another planet far-away,\nWe call it Earth. We happened to discovere your planet to be habitable and earth-like\nin final project of our statistics computing class.\nBe aware, we are coming.\n\nHunter in the dark forest")
+
